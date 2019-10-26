@@ -1,5 +1,5 @@
 ### Operating Systems (CS330A) Assignments
-This repository contains all of my assignment solutions for the Operating Systems **(CS330A)** course at IIT Kanpur, Fall Semester - 2018, instructed by [Prof. Debadatta Mishra](https://www.cse.iitk.ac.in/users/deba/). First three assignments were done on **gemOS**[1], a simple educational OS for gem5 architectural simulator, developed by Prof. Debadatta Mishra.
+This repository contains all of my assignment solutions for the Operating Systems **(CS330A)** course at IIT Kanpur, Fall Semester - 2018, instructed by [Prof. Debadatta Mishra](https://www.cse.iitk.ac.in/users/deba/). First three assignments were done on **gemOS**[1], a simple educational OS for gem5 architectural simulator.
 
 | __Assignment__ | __Task__ |
 |-------------|------------|
