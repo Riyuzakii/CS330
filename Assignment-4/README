@@ -1,0 +1,33 @@
+DISK IMAGE SETUP
+----------------
+
+$dd if=/dev/zero of=disk.img bs=1M count=1024   #creates a 1GB disk image
+$mkdir mnt
+
+BUILD
+-----
+$make
+
+- The default the logging is enabled (into objfs.log file). Remove -DDBG from the Makefile to 
+  disable logging. 
+- In the example implementation, caching is enabled. You need to disable it by removing -DCACHE 
+  C flag from the Makefile
+- use 'make clean' followed by 'make' after updating Makefile
+
+MOUNT
+-----
+$./objfs mnt -o use_ino
+$
+
+You can check successful mount using the following command.
+
+$mount | grep objfs
+
+TEST
+----
+
+Go inside the test directory and see the README.
+
+UNMOUNT
+-------
+fusermount -u mnt

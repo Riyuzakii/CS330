@@ -1,0 +1,73 @@
+            Starting IITK gemOS ......
+Initial Segment Map: cs = 0x8 ds = 0x10 ss = 0x10
+ESP=0x10C078 EBP=0x10C0D8
+cr0=0xE0000011 cr3=0x70000
+Initializing memory
+base = 0x0 limit low = 0x0 high=0x0 ac_byte = 0x0 flags=0x0
+base = 0x0 limit low = 0xFFFF high=0xF ac_byte = 0x9A flags=0xA
+base = 0x0 limit low = 0xFFFF high=0xF ac_byte = 0x92 flags=0xA
+base = 0x0 limit low = 0xFFFF high=0xF ac_byte = 0x92 flags=0xA
+Initializing user segments
+Initializing APIC
+APIC MSR = 0xFEE00900
+APIC initial state = 1
+APIC Base address = 0xFEE00000
+APIC ID = 0
+APIC VERSION = 0x50014
+DFR before = 0xFFFFFFFF
+LDR before = 0x0
+SPR = 0x1FF
+gemOS will put you on a DOS like shell. 
+GemOS# Setting up init process ...
+Page table setup done, launching init ...
+Got a tick. #ticks = 1
+[GemOS] System call invoked. syscall no = 3
+------------- Gonna sleep for 10 ticks. Check for pid = 0. -------------
+Got a tick. #ticks = 2
+[GemOS] System call invoked. syscall no = 7
+schedluing: old pid = 1  new pid  = 0
+Got a tick. #ticks = 3
+Got a tick. #ticks = 4
+Got a tick. #ticks = 5
+Got a tick. #ticks = 6
+Got a tick. #ticks = 7
+Got a tick. #ticks = 8
+Got a tick. #ticks = 9
+Got a tick. #ticks = 10
+Got a tick. #ticks = 11
+Got a tick. #ticks = 12
+schedluing: old pid = 0  new pid  = 1
+[GemOS] System call invoked. syscall no = 3
+------------- Gonna sleep for another 20 ticks. Check for pid = 0. ------------
+Got a tick. #ticks = 13
+[GemOS] System call invoked. syscall no = 7
+schedluing: old pid = 1  new pid  = 0
+Got a tick. #ticks = 14
+Got a tick. #ticks = 15
+Got a tick. #ticks = 16
+Got a tick. #ticks = 17
+Got a tick. #ticks = 18
+Got a tick. #ticks = 19
+Got a tick. #ticks = 20
+Got a tick. #ticks = 21
+Got a tick. #ticks = 22
+Got a tick. #ticks = 23
+Got a tick. #ticks = 24
+Got a tick. #ticks = 25
+Got a tick. #ticks = 26
+Got a tick. #ticks = 27
+Got a tick. #ticks = 28
+Got a tick. #ticks = 29
+Got a tick. #ticks = 30
+Got a tick. #ticks = 31
+Got a tick. #ticks = 32
+Got a tick. #ticks = 33
+schedluing: old pid = 0  new pid  = 1
+[GemOS] System call invoked. syscall no = 3
+------------- Woke up. The process should now exit. Give 2 marks. -------------
+Got a tick. #ticks = 34
+[GemOS] System call invoked. syscall no = 1
+[GemOS] exit code = 10
+Cleaned up init process
+GemOS shell again!
+GemOS# 

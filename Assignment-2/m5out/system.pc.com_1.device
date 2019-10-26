@@ -1,0 +1,38 @@
+            Starting IITK gemOS ......
+Initial Segment Map: cs = 0x8 ds = 0x10 ss = 0x10
+ESP=0x109068 EBP=0x1090C8
+cr0=0xE0000011 cr3=0x70000
+base = 0x0 limit low = 0x0 high=0x0 ac_byte = 0x0 flags=0x0
+base = 0x0 limit low = 0xFFFF high=0xF ac_byte = 0x9A flags=0xA
+base = 0x0 limit low = 0xFFFF high=0xF ac_byte = 0x92 flags=0xA
+base = 0x0 limit low = 0xFFFF high=0xF ac_byte = 0x92 flags=0xA
+Initializing user segments
+gemOS will put you on a DOS like shell. 
+GemOS# Mem pt=17405 user=105468
+Setting up init process ...
+Page table setup done, launching init ...
+[GemOS] System call invoked. syscall no  = 4
+[GemOS] System call invoked. syscall no  = 3
+A[GemOS] System call invoked. syscall no  = 3
+are we there yet
+[GemOS] System call invoked. syscall no  = 5
+[GemOS] System call invoked. syscall no  = 3
+are we there not
+[GemOS] System call invoked. syscall no  = 5
+[GemOS] System call invoked. syscall no  = 4
+[GemOS] System call invoked. syscall no  = 4
+[GemOS] System call invoked. syscall no  = 3
+[GemOS] System call invoked. syscall no  = 3
+Hello
+[GemOS] System call invoked. syscall no  = 3
+write working
+[GemOS] System call invoked. syscall no  = 3
+stack page fault handled
+[GemOS] System call invoked. syscall no  = 4
+[GemOS] System call invoked. syscall no  = 3
+read only page fault handled
+Error in MM_SEG_RODATA VA:0x14000D000, RIP:0x1000002E5, error_code:0x6
+Cleaned up init process
+GemOS shell again!
+Mem pt=17405 user=105468
+GemOS# 

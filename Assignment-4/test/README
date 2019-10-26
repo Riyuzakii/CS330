@@ -1,0 +1,11 @@
+To build: $make
+
+You can add more test cases as you go on. All the key values interfaces in kvstore.h will be tested
+using a multithreaded program. 
+
+If you want to reinitialize the disk perform the following steps,
+
+1. Change directory to the objfs base dir
+2. Unmount the file system.
+2. execute $dd if=/dev/zero of=disk.img bs=1M count=1024  /*This creates a 1GB disk. 
+                                                            During evaluation disk size can be MAX 32GB*/

@@ -1,0 +1,214 @@
+objfs_init
+Done objstore init
+objfs_getattr: key=/.xdg-volume-info
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/autorun.inf
+objfs_getattr: key=/.Trash
+objfs_getattr: key=/
+objfs_getattr: key=/.Trash-1000
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/autorun.inf
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/CS330###1
+objfs_create: key=/CS330###1
+objfs_getattr: key=/CS330###1
+objfs_write: key=/CS330###1 fh=103213
+objfs_release: key=/CS330###1
+objfs_getattr: key=/CS330###2
+objfs_create: key=/CS330###2
+objfs_getattr: key=/CS330###2
+objfs_write: key=/CS330###2 fh=103214
+objfs_release: key=/CS330###2
+objfs_getattr: key=/CS330###3
+objfs_create: key=/CS330###3
+objfs_getattr: key=/CS330###3
+objfs_write: key=/CS330###3 fh=103215
+objfs_release: key=/CS330###3
+objfs_getattr: key=/CS330###4
+objfs_create: key=/CS330###4
+objfs_getattr: key=/CS330###4
+objfs_write: key=/CS330###4 fh=103216
+objfs_release: key=/CS330###4
+objfs_getattr: key=/CS330###5
+objfs_create: key=/CS330###5
+objfs_getattr: key=/CS330###5
+objfs_write: key=/CS330###5 fh=103217
+objfs_release: key=/CS330###5
+objfs_getattr: key=/CS330###6
+objfs_create: key=/CS330###6
+objfs_getattr: key=/CS330###6
+objfs_write: key=/CS330###6 fh=103218
+objfs_release: key=/CS330###6
+objfs_getattr: key=/CS330###7
+objfs_create: key=/CS330###7
+objfs_getattr: key=/CS330###7
+objfs_write: key=/CS330###7 fh=103219
+objfs_release: key=/CS330###7
+objfs_getattr: key=/CS330###8
+objfs_create: key=/CS330###8
+objfs_getattr: key=/CS330###8
+objfs_write: key=/CS330###8 fh=103220
+objfs_release: key=/CS330###8
+objfs_getattr: key=/
+objfs_getattr: key=/CS330###1
+objfs_open: key=/CS330###1
+objfs_read: key=/CS330###1 fh=103213
+objfs_release: key=/CS330###1
+objfs_getattr: key=/CS330###2
+objfs_open: key=/CS330###2
+objfs_read: key=/CS330###2 fh=103214
+objfs_release: key=/CS330###2
+objfs_getattr: key=/CS330###3
+objfs_open: key=/CS330###3
+objfs_read: key=/CS330###3 fh=103215
+objfs_release: key=/CS330###3
+objfs_getattr: key=/CS330###4
+objfs_open: key=/CS330###4
+objfs_read: key=/CS330###4 fh=103216
+objfs_release: key=/CS330###4
+objfs_getattr: key=/CS330###5
+objfs_open: key=/CS330###5
+objfs_read: key=/CS330###5 fh=103217
+objfs_release: key=/CS330###5
+objfs_getattr: key=/CS330###6
+objfs_open: key=/CS330###6
+objfs_read: key=/CS330###6 fh=103218
+objfs_release: key=/CS330###6
+objfs_getattr: key=/CS330###7
+objfs_open: key=/CS330###7
+objfs_read: key=/CS330###7 fh=103219
+objfs_release: key=/CS330###7
+objfs_getattr: key=/CS330###8
+objfs_open: key=/CS330###8
+objfs_read: key=/CS330###8 fh=103220
+objfs_release: key=/CS330###8
+objfs_getattr: key=/
+objfs_getattr: key=/CS330###8
+objfs_unlink: key=/CS330###8
+objfs_getattr: key=/
+objfs_getattr: key=/CS330###1
+objfs_open: key=/CS330###1
+objfs_read: key=/CS330###1 fh=103213
+objfs_release: key=/CS330###1
+objfs_getattr: key=/CS330###2
+objfs_open: key=/CS330###2
+objfs_read: key=/CS330###2 fh=103214
+objfs_release: key=/CS330###2
+objfs_getattr: key=/CS330###3
+objfs_open: key=/CS330###3
+objfs_read: key=/CS330###3 fh=103215
+objfs_release: key=/CS330###3
+objfs_getattr: key=/CS330###4
+objfs_open: key=/CS330###4
+objfs_read: key=/CS330###4 fh=103216
+objfs_release: key=/CS330###4
+objfs_getattr: key=/CS330###5
+objfs_open: key=/CS330###5
+objfs_read: key=/CS330###5 fh=103217
+objfs_release: key=/CS330###5
+objfs_getattr: key=/CS330###6
+objfs_open: key=/CS330###6
+objfs_read: key=/CS330###6 fh=103218
+objfs_release: key=/CS330###6
+objfs_getattr: key=/CS330###7
+objfs_open: key=/CS330###7
+objfs_read: key=/CS330###7 fh=103219
+objfs_release: key=/CS330###7
+objfs_getattr: key=/CS330###8
+objfs_getattr: key=/
+objfs_getattr: key=/CS330###6
+objfs_unlink: key=/CS330###6
+objfs_getattr: key=/CS330###6
+objfs_create: key=/CS330###6
+objfs_getattr: key=/CS330###6
+objfs_write: key=/CS330###6 fh=103218
+objfs_release: key=/CS330###6
+objfs_getattr: key=/
+objfs_getattr: key=/CS330###1
+objfs_open: key=/CS330###1
+objfs_read: key=/CS330###1 fh=103213
+objfs_release: key=/CS330###1
+objfs_getattr: key=/CS330###2
+objfs_open: key=/CS330###2
+objfs_read: key=/CS330###2 fh=103214
+objfs_release: key=/CS330###2
+objfs_getattr: key=/CS330###3
+objfs_open: key=/CS330###3
+objfs_read: key=/CS330###3 fh=103215
+objfs_release: key=/CS330###3
+objfs_getattr: key=/CS330###4
+objfs_open: key=/CS330###4
+objfs_read: key=/CS330###4 fh=103216
+objfs_release: key=/CS330###4
+objfs_getattr: key=/CS330###5
+objfs_open: key=/CS330###5
+objfs_read: key=/CS330###5 fh=103217
+objfs_release: key=/CS330###5
+objfs_getattr: key=/CS330###6
+objfs_open: key=/CS330###6
+objfs_read: key=/CS330###6 fh=103218
+objfs_release: key=/CS330###6
+objfs_getattr: key=/CS330###7
+objfs_open: key=/CS330###7
+objfs_read: key=/CS330###7 fh=103219
+objfs_release: key=/CS330###7
+objfs_getattr: key=/CS330###8
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/CS330###1
+objfs_open: key=/CS330###1
+objfs_read: key=/CS330###1 fh=103213
+objfs_release: key=/CS330###1
+objfs_getattr: key=/CS330###2
+objfs_open: key=/CS330###2
+objfs_read: key=/CS330###2 fh=103214
+objfs_release: key=/CS330###2
+objfs_getattr: key=/CS330###3
+objfs_open: key=/CS330###3
+objfs_read: key=/CS330###3 fh=103215
+objfs_release: key=/CS330###3
+objfs_getattr: key=/CS330###4
+objfs_open: key=/CS330###4
+objfs_read: key=/CS330###4 fh=103216
+objfs_release: key=/CS330###4
+objfs_getattr: key=/CS330###5
+objfs_open: key=/CS330###5
+objfs_read: key=/CS330###5 fh=103217
+objfs_release: key=/CS330###5
+objfs_getattr: key=/CS330###6
+objfs_open: key=/CS330###6
+objfs_read: key=/CS330###6 fh=103218
+objfs_release: key=/CS330###6
+objfs_getattr: key=/CS330###7
+objfs_open: key=/CS330###7
+objfs_read: key=/CS330###7 fh=103219
+objfs_release: key=/CS330###7
+objfs_getattr: key=/CS330###8
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/
+objfs_getattr: key=/.Trash
+objfs_getattr: key=/.Trash-1000
